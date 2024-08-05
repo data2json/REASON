@@ -119,10 +119,7 @@ A list of reasoning tasks for language models.
 114. Adaptive reasoning: Adjusting one's thinking and decision-making in response to changing circumstances.
 115. Interdisciplinary reasoning: Combining insights from multiple academic disciplines to solve complex problems.
 116. Socratic reasoning: Using questioning techniques to stimulate critical thinking and illuminate ideas.
-117. Analogical reasoning: Drawing parallels between different situations to gain insights or 
-solve problems.
-118. Inferential reasoning: Drawing conclusions based on evidence and reasoning rather than di
-rect observation.
+117. Analogical reasoning: Drawing parallels between different situations to gain insights or solve problems.
+118. Inferential reasoning: Drawing conclusions based on evidence and reasoning rather than direct observation.
 119. Quantitative reasoning: Using numerical data to solve problems and draw conclusions.
-120. Qualitative reasoning: Analyzing non-numerical data to understand patterns, themes, and r
-elationships.
+120. Qualitative reasoning: Analyzing non-numerical data to understand patterns, themes, and relationships.
