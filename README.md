@@ -1,8 +1,6 @@
 # REASON
 A list of reasoning tasks for language models.
 
-
-(openai) essobi@thegreenbox:~$ more /mnt/sdb/home/essobi/Pentest/Master_Tasks.txt 
 ## Comprehensive List of Human Reasoning Tasks
 
 1. Causal reasoning: Identifying and understanding cause-and-effect relationships.
